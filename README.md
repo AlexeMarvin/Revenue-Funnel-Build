@@ -15,16 +15,16 @@ The end result is a portfolio of dashboards that connect top-of-funnel activity 
 
 ## What is Contained in the Assets Folder
 
-The `Assets/` folder contains all project documentation and supporting visualization materials.
+The `Assets` folder contains all project documentation and supporting visualization materials.
 
 Each dashboard is organized in its own sub-structure:
 
-- A **Markdown file** describing the dashboard, including:
+- **2 Markdown files** describing a single dashboard per markdown file, including:
   - Dashboard purpose and business context
   - Key metrics and analytical breakdowns
   - Strategic insights derived from CRM data
 
-- A **screenshots/ folder** containing images of all dashboard visualizations referenced in the Markdown file
+- A **screenshots folder** containing images of all dashboard visualizations referenced in the Markdown file
 
 This structure ensures each dashboard is fully self-contained, combining both narrative analysis and supporting visual evidence in one place.
 

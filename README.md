@@ -30,13 +30,13 @@ This structure ensures each dashboard is fully self-contained, combining both na
 
 ---
 
-## TLDR Version of Each Markdown File
+## The TLDR of Each Markdown File
 
 ### 1. Revenue Operations Command Center
 
 This dashboard provides a high-level operational view of the entire revenue funnel, focusing on pipeline health, forecast reliability, channel performance, and team contribution.
 
-#### Key Insights (TLDR)
+#### Top Insights
 
 - **Strong pipeline foundation but concentration risk exists**
   - A large portion of pipeline value is held by a small number of reps and channels, creating dependency risk but also highlighting clear best-practice performers.
@@ -59,7 +59,7 @@ This dashboard provides a high-level operational view of the entire revenue funn
 
 This dashboard provides a full-funnel view from lead generation through opportunity conversion and closed revenue, focusing on how effectively leads convert into pipeline and revenue across industries and channels.
 
-#### Key Insights (TLDR)
+#### Top Insights
 
 - **Lead response and qualification speed is a key bottleneck**
   - A large share of leads remain uncontacted or early-stage, creating avoidable stagnation in the top of the funnel.

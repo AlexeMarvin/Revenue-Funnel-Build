@@ -30,7 +30,7 @@ This structure ensures each dashboard is fully self-contained, combining both na
 
 ---
 
-## The TLDR of Each Markdown File
+## The TLDR of Each Dashboard
 
 ### 1. Revenue Operations Command Center
 
